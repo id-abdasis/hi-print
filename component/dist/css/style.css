@@ -1,0 +1,85 @@
+#header {
+    background: #36D1DC;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #5B86E5, #36D1DC);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #5B86E5, #36D1DC);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    box-shadow: 0 0 2px 5px #eee;
+}
+
+.navbar {
+    padding: 15px;
+}
+
+.navbar a {
+    color: #fff;
+}
+
+#slider {
+    height: 528px;
+    background: #141E30;
+    background: -webkit-linear-gradient(to right, #243B55, #141E30);
+    background: linear-gradient(to right, #243B55, #141E30);
+}
+
+#slider-padding {
+    padding-top: 100px;
+}
+
+#slider h1, p{
+	color: #fff;
+}
+
+.btn-platform{
+	background: transparent;
+	padding: 10px 20px;
+	border: 1px solid rgba(255, 255, 255, .15);
+	border-radius: 5px;
+	color: #fff;
+}
+
+.hand-phone img{
+	margin: 0 auto;
+	max-width: 300px;
+}
+
+.featured-margin{
+	margin: 0 auto;
+}
+
+.padding-2x{
+	margin-top: 70px;
+	margin-bottom: 70px;
+}
+
+#featured p{
+	color: black;
+}
+
+
+.featured{
+	background: #fff;
+}
+.section-heading h2{
+	color: #6C7A89;
+	font-size: 24px;
+	font-family: ubuntu;
+}
+
+#featured p{
+	color: #6C7A89;
+	font-size: 14px;
+
+}
+
+#featured h3{
+	color: #6C7A89;
+	font-size: 20px;
+	font-family: ubuntu;
+}
+
+.fa-3x{
+	font-size: 3em;
+	color: #6C7A89;
+}
